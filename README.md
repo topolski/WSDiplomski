@@ -1,2 +1,2 @@
 # WSDiplomski
-Simple web service created in ASP.NET (August 2013)
+Simple web service created in C# (August 2013)
